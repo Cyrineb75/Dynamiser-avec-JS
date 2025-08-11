@@ -17,4 +17,5 @@ Comment le tester ?
 
 Environnement: HTML5, JavaScript  
 
-Testé sur Google Chrome, merci !
+Testé sur Google Chrome. (Linux et sur Windows)
+Merci !
